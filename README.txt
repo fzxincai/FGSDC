@@ -1,4 +1,4 @@
-There are two zip files for the experimental code for article - A Dynamic Fusion Method Using Fast Guided Sampling and Dynamic Constraints
+There are two zip files for the experimental codes for article - A Dynamic Fusion Method Using Fast Guided Sampling and Dynamic Constraints
 
 Static map planning
 1.You can select the "Static Complex Map" file in the FGSDC Code folder and click to run "DWA_rong.m".
